@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+.main-box {
+    text-align: center;
+    width: 100px;
+    padding: 100px;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 0;
+}
+
+.input-radius-box {
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
